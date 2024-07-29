@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": "a3ca",
+      "firstname": "anuj",
+      "lastname": "kumar",
+      "phonenumber": 764738123623,
+      "city": "mahau"
+    },
+    {
+      "id": "858e",
+      "firstname": "Madhu",
+      "lastname": "Singh",
+      "phonenumber": 98764543,
+      "city": "mahua"
+    },
+    {
+      "id": "0055",
+      "firstname": "priyanka",
+      "lastname": "kumari",
+      "phonenumber": 98746358835,
+      "city": "hajipur"
+    },
+    {
+      "id": "4539",
+      "firstname": "pinku",
+      "lastname": "kumar",
+      "phonenumber": 9876544538,
+      "city": "bihar"
+    },
+    {
+      "id": "b641",
+      "firstname": "sachin ",
+      "lastname": "kumar",
+      "phonenumber": 4239492392,
+      "city": "patna"
+    },
+    {
+      "id": "a2ea",
+      "firstname": "Anoj",
+      "lastname": "Kumar",
+      "phonenumber": 7480847622,
+      "city": "Ambala"
+    }
+  ],
+  "signup": [
+    {
+      "id": "1e53",
+      "name": "anuj",
+      "email": "anojyadav383@gmail.com",
+      "password": "anuj"
+    },
+    {
+      "id": "ad82",
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "9fc2",
+      "name": "priyanka",
+      "email": "priyanka@gmail.com",
+      "message": "hii"
+    }
+  ],
+  "signupadmin": [
+    {
+      "name": "nitesh",
+      "email": "nitesh@gmail.com",
+      "password": "dsdsdsd",
+      "id": "1"
+    },
+    {
+      "name": "anoj",
+      "email": "anoj@gmail.com",
+      "password": "a2a2a2a2",
+      "id": "2"
+    },
+    {
+      "id": "13b0",
+      "name": "anoj",
+      "email": "anoj@gmail.com",
+      "password": "anoj"
+    }
+  ]
+}
